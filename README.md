@@ -15,3 +15,5 @@
 5. Фаил `gmd.csv` скачанный из этого репозитория поместить в папку `Dragons Dogma Online\nativePC\Server\Files\Client` приняв замену.
 6. Запустить процесс перевода игровых файлов - перейти в папку `Dragons Dogma Online\nativePC` и перетянуть папку `rom` на фаил `pack_gmd_english.cmd`. Должно открыться окно с командной строкой отображающее прогресс процесса перевода.
 7. По окончанию процесса перевода файлы `gui_cmn.arc` и `gui_cmn_win.arc` скачанные из этого репозитория скопировать в папку `Dragons Dogma Online\nativePC\rom\ui` приняв замену.
+
+Сервер https://discord.gg/B5fxjnUGUg
